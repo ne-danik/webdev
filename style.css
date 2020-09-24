@@ -317,6 +317,7 @@ SLIDER
     position: absolute;
     display: inline-flex;
     line-height: 0;
+    overflow: hidden;
 }
 
 .slide {
